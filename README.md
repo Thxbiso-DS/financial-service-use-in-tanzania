@@ -64,12 +64,12 @@
    
 2. Under kernels select `financial-service-env`
 
-3. Under run choose choose the option to run all cell.
-4. Once you are done, you can close the the browser and enter `deactivate` on your command line 
+3. Under run choose the option to run all cells.
+4. Once you are done, you can close the browser and enter `deactivate` on your command line 
 
 ## Author 
 Thabiso Mokgete  
-* thabiso.mokgete@umuzi.org
+* s.mokgete@gmail
 
 ## License 
 Copyright © 2023 [Thabiso Mokgete](https://github.com/Thxbiso-DS).<br />
